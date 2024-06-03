@@ -1,1 +1,6 @@
-# 2023_Anomaly_Detection
+# 2023 Anomaly Detection
+
+Based on the Publication: Searching for Novel Chemistry in Exoplanetary Atmospheres Using Machine Learning for Anomaly Detection [https://iopscience.iop.org/article/10.3847/1538-4357/ad0047]
+
+The next generation of telescopes will yield a substantial increase in the availability of high-quality spectroscopic data for thousands of exoplanets. The sheer volume of data and number of planets to be analyzed greatly motivate the development of new, fast, and efficient methods for flagging interesting planets for reobservation and detailed analysis. We advocate the application of machine learning (ML) techniques for anomaly (novelty) detection to exoplanet transit spectra, with the goal of identifying planets with unusual chemical composition and even searching for unknown biosignatures. We successfully demonstrate the feasibility of two popular anomaly detection methods (local outlier factor and one-class support vector machine) on a large public database of synthetic spectra. We consider several test cases, each with different levels of instrumental noise. In each case, we use receiver operating characteristic curves to quantify and compare the performance of the two ML techniques.
+
